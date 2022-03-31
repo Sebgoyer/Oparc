@@ -1,4 +1,5 @@
 sqitch.conf
+node_modules/
 
 bookings/node_modules
 bookings/.env
